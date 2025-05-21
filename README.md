@@ -31,8 +31,7 @@ FrontEnd Developer | Java · Spring Boot · React · PostgreSQL
   → 대용량 CRUD, 북마크, 마크다운 에디터 등 
 
 ## 📫 Contact  
-- Email: dydtn61498@naver.com  
-- Blog: [https://velog.io/SpringAuto](https://velog.io/@dydtn61498/posts)
+- Email: seho05270@naver.com  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seh0&layout=compact)
 
